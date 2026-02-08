@@ -1,0 +1,4 @@
+similarity_dict.pkl
+movie_dict.pkl
+*.pkl
+*.csv
